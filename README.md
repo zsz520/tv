@@ -16,6 +16,13 @@ https://gitee.com/taksssss/tv/raw/main/epg/51zmt.xml
 https://gitee.com/taksssss/tv/raw/main/epg/51zmt.xml.gz
 ```
 
+**[erw](https://epg.erw.cc/)**
+
+```
+https://gitee.com/taksssss/tv/raw/main/epg/erw.xml
+https://gitee.com/taksssss/tv/raw/main/epg/erw.xml.gz
+```
+
 **[epg.pw](https://epg.pw/index.html)**
 
 ```
