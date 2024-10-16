@@ -773,7 +773,7 @@
     {
       "epgid": "CNBCHONGKONG",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNBCHONGKONG.png",
-      "name": "CNBCHONGKONG,CNBC亚太财经"
+      "name": "CNBCHONGKONG,154CNBCASIA,CNBC亚太财经"
     },
     {
       "epgid": "CNC",
@@ -1758,7 +1758,7 @@
     {
       "epgid": "GLOBALTREKKER",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/GLOBALTREKKER.png",
-      "name": "GLOBALTREKKER,"
+      "name": "GLOBALTREKKER,108GLOBALTREKKER"
     },
     {
       "epgid": "GLOBETROTTER环游旅行家",
@@ -2733,7 +2733,7 @@
     {
       "epgid": "MTV",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MTV.png",
-      "name": "MTV,083MTV,113MTVLIVE,MTVLIVE,MTVLIVEHD音乐频道,[TW]MTVLIVE"
+      "name": "MTV,113MTVLIVE,MTVLIVE,MTVLIVEHD音乐频道,[TW]MTVLIVE"
     },
     {
       "epgid": "MTVLIVE",
@@ -2753,7 +2753,7 @@
     {
       "epgid": "MTV综合",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MTV综合.png",
-      "name": "MTV综合,MTV综合电视台"
+      "name": "MTV综合,083MTV,MTV综合电视台"
     },
     {
       "epgid": "MUTV",
@@ -3198,7 +3198,7 @@
     {
       "epgid": "NHKWORLDPREMIUM",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NHKWORLDPREMIUM.png",
-      "name": "NHKWORLDPREMIUM,094NHK-WORLD,NHKBSP4K,日本_NHKWORLDPREMIUM"
+      "name": "NHKWORLDPREMIUM,094NHK-WORLD,094NHKWORLD,NHKBSP4K,日本_NHKWORLDPREMIUM"
     },
     {
       "epgid": "NHLNETWORK",
@@ -3398,7 +3398,7 @@
     {
       "epgid": "ROLLOR",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ROLLOR.png",
-      "name": "ROLLOR,189滾動力,230滾動力,滚动力ROLLOR,滚动力纪实,滚动力纪实高清,滚动力高清"
+      "name": "ROLLOR,127滾動力,189滾動力,230滾動力,滚动力ROLLOR,滚动力纪实,滚动力纪实高清,滚动力高清"
     },
     {
       "epgid": "RTDOC",
@@ -4193,7 +4193,7 @@
     {
       "epgid": "TVN",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVN.png",
-      "name": "TVN,144TVN"
+      "name": "TVN,144TVN,159TVN"
     },
     {
       "epgid": "TVONEHD",
@@ -5713,7 +5713,7 @@
     {
       "epgid": "华视新闻",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华视新闻.png",
-      "name": "华视新闻,"
+      "name": "华视新闻,052華視新聞資訊"
     },
     {
       "epgid": "华视新闻资讯",
@@ -6593,12 +6593,12 @@
     {
       "epgid": "国会频道1",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/国会频道1.png",
-      "name": "国会频道1,"
+      "name": "国会频道1,123國會頻道1"
     },
     {
       "epgid": "国会频道2",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/国会频道2.png",
-      "name": "国会频道2,"
+      "name": "国会频道2,124國會頻道2"
     },
     {
       "epgid": "国兴卫视",
@@ -7838,7 +7838,7 @@
     {
       "epgid": "梅迪奇艺术",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/梅迪奇艺术.png",
-      "name": "梅迪奇艺术,"
+      "name": "梅迪奇艺术,112MEDICI-ARTS"
     },
     {
       "epgid": "梨园",
@@ -10023,7 +10023,7 @@
     {
       "epgid": "韩国娱乐台KMTV",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/韩国娱乐台KMTV.png",
-      "name": "韩国娱乐台KMTV,145韓國娛樂台KMTV,韩国娱乐台,韩国娱乐台KMTV"
+      "name": "韩国娱乐台KMTV,031韓國娛樂台KMTV,145韓國娛樂台KMTV,韩国娱乐台,韩国娱乐台KMTV"
     },
     {
       "epgid": "韩国育乐",
