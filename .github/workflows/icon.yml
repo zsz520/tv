@@ -84,9 +84,9 @@ jobs:
             fi
           done
 
-      - name: Fetch and Parse M3U Icons
+      - name: Fetch and Parse 51zmt Icons
         run: |
-          curl -o test.m3u http://epg.51zmt.top:8000/test.m3u
+          curl --fail -o assets/51zmt.m3u http://epg.51zmt.top:8000/test.m3u || echo "下载失败，跳过该文件"
           awk -F'tvg-logo=|tvg-name="' '/#EXTINF/ {
             match($2, /"([^"]+)"/, logo);
             match($3, /([^"]+)"/, name);
@@ -96,14 +96,14 @@ jobs:
               sub(/频道$|頻道$|电视台$|電視台$|電視臺$|台$|臺$/, "", name[1]);
               printf "%s %s\n", name[1], logo[1];
             }
-          }' test.m3u | while read -r tvg_name tvg_logo; do
+          }' assets/51zmt.m3u | while read -r tvg_name tvg_logo; do
             output_file="icon_new/${tvg_name}.png"
             if [ ! -f "$output_file" ]; then
               echo "$tvg_logo $output_file"
             fi
           done | xargs -P 8 -n 2 bash -c 'curl -s "$0" -o "$1"'
 
-      - name: Fetch and Parse HTML for Icons
+      - name: Fetch and Parse livednow Icons
         env:
             PROXY_URL: ${{ secrets.PROXY_URL }}
         run: |
@@ -185,6 +185,6 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@users.noreply.github.com"
-          git add icon iconList_default.json
+          git add icon iconList_default.json assets/51zmt.m3u
           git commit -m "Update icons and icon list" || echo "No changes to commit"
           git push
