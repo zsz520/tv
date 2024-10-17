@@ -20,6 +20,7 @@ jobs:
           mkdir -p icon_new
           for file in live/tv/*.png; do
               filename=$(basename "$file" .png | tr '[:lower:]' '[:upper:]' | sed 's/[ _-]//g')
+              sub(/频道$|頻道$|电视台$|電視台$|電視臺$|台$|臺$/, "", filename)
               cp "$file" "icon_new/${filename}.png"
           done
 
@@ -56,7 +57,7 @@ jobs:
 
       - name: Filter and Copy Icons
         run: |
-          filter_keywords=("NEWTV" "CBN" "IHOT" "汕头" "卫视")
+          filter_keywords=("NEWTV" "CBN" "IHOT" "汕头" "卫视" "*")
           ignore_keywords=("CCTV")
           
           for file in TVlogo/img/*.png; do
@@ -139,14 +140,16 @@ jobs:
             fi
           done
 
-      - name: Copy GDCMCCIPTV Icons
+      - name: Copy GDCMCCIPTV and MyUKJ Icons
         run: |
-          for file in assets/gdcmcciptv/*.png; do
+          for folder in assets/gdcmcciptv assets/myukj; do
+            for file in $folder/*.png; do
               filename=$(basename "$file" .png | tr '[:lower:]' '[:upper:]' | sed 's/[ _-]//g')
-            if [ ! -f "icon_new/${filename}.png" ]; then
-              echo "Copying $filename to icon_new"
-              cp "$file" "icon_new/${filename}.png"
-            fi
+              if [ ! -f "icon_new/${filename}.png" ]; then
+                echo "Copying $filename to icon_new"
+                cp "$file" "icon_new/${filename}.png"
+              fi
+            done
           done
 
       - name: Crop Icons
