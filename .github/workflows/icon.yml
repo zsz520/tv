@@ -19,8 +19,7 @@ jobs:
           mkdir -p icon
           mkdir -p icon_new
           for file in live/tv/*.png; do
-              filename=$(basename "$file" .png | tr '[:lower:]' '[:upper:]' | sed 's/[ _-]//g')
-              sub(/频道$|頻道$|电视台$|電視台$|電視臺$|台$|臺$/, "", filename)
+              filename=$(basename "$file" .png | tr '[:lower:]' '[:upper:]' | sed -E 's/[ _-]//g; s/频道$|頻道$|电视台$|電視台$|電視臺$|台$|臺$//g')
               cp "$file" "icon_new/${filename}.png"
           done
 
