@@ -30,12 +30,13 @@ jobs:
             else
               curl --retry 5 -o "$xml_file_tmp" "$url"
             fi
-            if [ ! -f "$xml_file" ] || ! cmp -s "$xml_file_tmp" "$xml_file"; then
+            if grep -iq "404 Not Found" "$xml_file_tmp"; then
+              echo "文件包含404错误"
+            elif [ ! -f "$xml_file" ] || ! cmp -s "$xml_file_tmp" "$xml_file"; then
               mv "$xml_file_tmp" "$xml_file"
               gzip -kf "$xml_file"
-            else
-              rm "$xml_file_tmp"
             fi
+            rm -f "$xml_file_tmp"
           done
 
           cat files.json | jq -r 'keys[]' | while read -r filename; do
