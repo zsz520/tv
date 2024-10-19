@@ -56,7 +56,6 @@ jobs:
 
       - name: Filter and Copy Icons
         run: |
-          filter_keywords=("NEWTV" "CBN" "IHOT" "汕头" "卫视" "*")
           ignore_keywords=("CCTV")
           
           for file in TVlogo/img/*.png; do
@@ -67,21 +66,8 @@ jobs:
                 continue 2
               fi
             done
-          
-            should_copy=true
-            if [[ -f "icon_new/$filename" ]]; then
-              should_copy=false
-              for keyword in "${filter_keywords[@]}"; do
-                if [[ $filename == *"$keyword"* ]]; then
-                  should_copy=true
-                  break
-                fi
-              done
-            fi
-          
-            if $should_copy; then
-              cp "$file" "icon_new/$filename"
-            fi
+            
+            cp "$file" "icon_new/$filename"
           done
 
       - name: Fetch and Parse 51zmt Icons
