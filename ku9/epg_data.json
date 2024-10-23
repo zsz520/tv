@@ -2443,7 +2443,7 @@
     {
       "epgid": "HUBEI7",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HUBEI7.png",
-      "name": "HUBEI7,湖北公共,湖北公共新闻"
+      "name": "HUBEI7,湖北公共新闻"
     },
     {
       "epgid": "HUBEI8",
@@ -9491,11 +9491,6 @@
       "name": "新视觉,SITV-13新视觉,SITV新视觉"
     },
     {
-      "epgid": "新闻综合",
-      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新闻综合.png",
-      "name": "新闻综合,"
-    },
-    {
       "epgid": "旅游卫视",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/旅游卫视.png",
       "name": "旅游卫视,"
@@ -11003,7 +10998,7 @@
     {
       "epgid": "湖北公共·新闻",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北公共·新闻.png",
-      "name": "湖北公共·新闻,15.湖北公共·新闻-1080P"
+      "name": "湖北公共·新闻,15.湖北公共·新闻-1080P,湖北公共"
     },
     {
       "epgid": "湖北公共新闻",
@@ -11038,7 +11033,7 @@
     {
       "epgid": "湖北经济",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北经济.png",
-      "name": "湖北经济,12.湖北经济-1080P"
+      "name": "湖北经济,12.湖北经济-1080P,湖北经视"
     },
     {
       "epgid": "湖北经视",
