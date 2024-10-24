@@ -130,9 +130,9 @@ jobs:
             fi
           done
 
-      - name: Copy GDCMCCIPTV and MyUKJ Icons
+      - name: Copy GDCMCCIPTV, MyUKJ and Others Icons
         run: |
-          for folder in assets/gdcmcciptv assets/myukj; do
+          for folder in assets/gdcmcciptv assets/myukj assets/others; do
             for file in $folder/*.png; do
               filename=$(basename "$file" .png | tr '[:lower:]' '[:upper:]' | sed 's/[ _-]//g')
               if [ ! -f "icon_new/${filename}.png" ]; then
