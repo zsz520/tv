@@ -72,7 +72,12 @@ jobs:
 
       - name: Fetch and Parse 51zmt Icons
         run: |
-          curl --fail -o assets/51zmt.m3u http://epg.51zmt.top:8000/test.m3u || echo "下载失败，跳过该文件"
+          if curl --fail -o assets/51zmt.m3u.tmp http://epg.51zmt.top:8000/test.m3u; then
+            mv assets/51zmt.m3u.tmp assets/51zmt.m3u
+          else
+            rm assets/51zmt.m3u.tmp 2>/dev/null
+            echo "下载失败，保持原文件不变"
+          fi
           awk -F'tvg-logo=|tvg-name="' '/#EXTINF/ {
             match($2, /"([^"]+)"/, logo);
             match($3, /([^"]+)"/, name);
