@@ -157,6 +157,13 @@ jobs:
             fi
           done
 
+          for old_file in icon/*.png; do
+            filename=$(basename "$old_file")
+            if [ ! -f "icon_new/$filename" ]; then
+              rm "$old_file"
+            fi
+          done
+
       - name: Generate iconList_default.json
         run: |
           echo '{' > iconList_default.json
