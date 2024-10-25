@@ -5361,6 +5361,11 @@
       "name": "上视新闻,上海新闻综合HD,上海新闻高清,上海综合,东方新闻"
     },
     {
+      "epgid": "上饶电视台",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上饶电视台.png",
+      "name": "上饶电视台,"
+    },
+    {
       "epgid": "世新综合",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/世新综合.png",
       "name": "世新综合,"
@@ -5754,6 +5759,11 @@
       "epgid": "乐游",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/乐游.png",
       "name": "乐游,"
+    },
+    {
+      "epgid": "九江电视台",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/九江电视台.png",
+      "name": "九江电视台,"
     },
     {
       "epgid": "书画",
@@ -8496,6 +8506,11 @@
       "name": "宜昌综合,"
     },
     {
+      "epgid": "宜春电视台",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/宜春电视台.png",
+      "name": "宜春电视台,"
+    },
+    {
       "epgid": "宝鸡公共",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/宝鸡公共.png",
       "name": "宝鸡公共,"
@@ -9011,6 +9026,11 @@
       "name": "广西,"
     },
     {
+      "epgid": "广西乐思购",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西乐思购.png",
+      "name": "广西乐思购,"
+    },
+    {
       "epgid": "广西卫视",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西卫视.png",
       "name": "广西卫视,59.广西卫视-1080P,广西卫视F,广西卫视HD,广西卫视标清,广西电视台"
@@ -9291,6 +9311,11 @@
       "name": "扶风,"
     },
     {
+      "epgid": "抚州电视台",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/抚州电视台.png",
+      "name": "抚州电视台,"
+    },
+    {
       "epgid": "抚顺",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/抚顺.png",
       "name": "抚顺,"
@@ -9394,6 +9419,11 @@
       "epgid": "新会",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新会.png",
       "name": "新会,"
+    },
+    {
+      "epgid": "新余电视台",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新余电视台.png",
+      "name": "新余电视台,"
     },
     {
       "epgid": "新加坡亚洲新闻",
@@ -12209,6 +12239,11 @@
       "epgid": "莲花卫视",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/莲花卫视.png",
       "name": "莲花卫视,澳門蓮花,澳门莲花,莲华卫视"
+    },
+    {
+      "epgid": "萍乡电视台",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/萍乡电视台.png",
+      "name": "萍乡电视台,"
     },
     {
       "epgid": "营口",
