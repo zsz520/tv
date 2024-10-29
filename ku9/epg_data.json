@@ -121,6 +121,11 @@
       "name": "ANIMAXHD,"
     },
     {
+      "epgid": "AQTV",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AQTV.png",
+      "name": "AQTV,"
+    },
+    {
       "epgid": "ARIRANG",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ARIRANG.png",
       "name": "ARIRANG,"
@@ -1024,11 +1029,6 @@
       "epgid": "DAAI2",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DAAI2.png",
       "name": "DAAI2,"
-    },
-    {
-      "epgid": "DALITV",
-      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DALITV.png",
-      "name": "DALITV,"
     },
     {
       "epgid": "DAVINCI",
@@ -3851,6 +3851,11 @@
       "name": "QINGHAI,"
     },
     {
+      "epgid": "QTV",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/QTV.png",
+      "name": "QTV,"
+    },
+    {
       "epgid": "QUANJISHI",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/QUANJISHI.png",
       "name": "QUANJISHI,"
@@ -4979,6 +4984,26 @@
       "epgid": "WETV",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/WETV.png",
       "name": "WETV,"
+    },
+    {
+      "epgid": "WFTV1",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/WFTV1.png",
+      "name": "WFTV1,"
+    },
+    {
+      "epgid": "WFTV2",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/WFTV2.png",
+      "name": "WFTV2,"
+    },
+    {
+      "epgid": "WFTV3",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/WFTV3.png",
+      "name": "WFTV3,"
+    },
+    {
+      "epgid": "WFTV4",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/WFTV4.png",
+      "name": "WFTV4,"
     },
     {
       "epgid": "WHTV1",
@@ -9921,6 +9946,21 @@
       "name": "梦工厂动画,"
     },
     {
+      "epgid": "梧州公共",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/梧州公共.png",
+      "name": "梧州公共,"
+    },
+    {
+      "epgid": "梧州教育生活",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/梧州教育生活.png",
+      "name": "梧州教育生活,"
+    },
+    {
+      "epgid": "梧州新闻综合",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/梧州新闻综合.png",
+      "name": "梧州新闻综合,"
+    },
+    {
       "epgid": "梨园",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/梨园.png",
       "name": "梨园,河南梨园频道"
@@ -12224,6 +12264,11 @@
       "epgid": "茶",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/茶.png",
       "name": "茶,查频道,湖南茶频道,茶频道,茶频道F"
+    },
+    {
+      "epgid": "茶频道",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/茶频道.png",
+      "name": "茶频道,"
     },
     {
       "epgid": "莆田",
