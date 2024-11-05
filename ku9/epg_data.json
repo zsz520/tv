@@ -881,6 +881,11 @@
       "name": "CLASSICA古典乐,"
     },
     {
+      "epgid": "CLTV",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CLTV.png",
+      "name": "CLTV,"
+    },
+    {
       "epgid": "CMT",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CMT.png",
       "name": "CMT,"
@@ -1014,11 +1019,6 @@
       "epgid": "CTIVARIETY",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CTIVARIETY.png",
       "name": "CTIVARIETY,"
-    },
-    {
-      "epgid": "CTS",
-      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CTS.png",
-      "name": "CTS,"
     },
     {
       "epgid": "DAAI",
@@ -1856,11 +1856,6 @@
       "name": "FREEFORM,"
     },
     {
-      "epgid": "FTV",
-      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FTV.png",
-      "name": "FTV,"
-    },
-    {
       "epgid": "FTV1",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FTV1.png",
       "name": "FTV1,"
@@ -2461,6 +2456,11 @@
       "name": "HWAZANTV,"
     },
     {
+      "epgid": "HYTV",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HYTV.png",
+      "name": "HYTV,"
+    },
+    {
       "epgid": "ICS外语",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ICS外语.png",
       "name": "ICS外语,"
@@ -2936,6 +2936,26 @@
       "name": "JISUQICHE,"
     },
     {
+      "epgid": "JNETV",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/JNETV.png",
+      "name": "JNETV,"
+    },
+    {
+      "epgid": "JNSETV",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/JNSETV.png",
+      "name": "JNSETV,"
+    },
+    {
+      "epgid": "JNTV",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/JNTV.png",
+      "name": "JNTV,"
+    },
+    {
+      "epgid": "JNYETV",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/JNYETV.png",
+      "name": "JNYETV,"
+    },
+    {
       "epgid": "J亚洲电影",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/J亚洲电影.png",
       "name": "J亚洲电影,"
@@ -3109,6 +3129,11 @@
       "epgid": "LSTIME电影",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LSTIME电影.png",
       "name": "LSTIME电影,"
+    },
+    {
+      "epgid": "LSTV",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LSTV.png",
+      "name": "LSTV,"
     },
     {
       "epgid": "LUXETV",
@@ -3861,6 +3886,11 @@
       "name": "QUANJISHI,"
     },
     {
+      "epgid": "QZTV",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/QZTV.png",
+      "name": "QZTV,"
+    },
+    {
       "epgid": "QZTV1",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/QZTV1.png",
       "name": "QZTV1,"
@@ -4516,11 +4546,6 @@
       "name": "TAIWANPLUS,"
     },
     {
-      "epgid": "TAIWANXIJU",
-      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TAIWANXIJU.png",
-      "name": "TAIWANXIJU,"
-    },
-    {
       "epgid": "TBS",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TBS.png",
       "name": "TBS,"
@@ -4986,6 +5011,16 @@
       "name": "WETV,"
     },
     {
+      "epgid": "WFGXTV",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/WFGXTV.png",
+      "name": "WFGXTV,"
+    },
+    {
+      "epgid": "WFKWTV",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/WFKWTV.png",
+      "name": "WFKWTV,"
+    },
+    {
       "epgid": "WFTV1",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/WFTV1.png",
       "name": "WFTV1,"
@@ -5164,11 +5199,6 @@
       "epgid": "YUANZHUMIN",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/YUANZHUMIN.png",
       "name": "YUANZHUMIN,"
-    },
-    {
-      "epgid": "YUNNAN",
-      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/YUNNAN.png",
-      "name": "YUNNAN,"
     },
     {
       "epgid": "Z",
