@@ -2886,6 +2886,11 @@
       "name": "JAPANEWS24,"
     },
     {
+      "epgid": "JCYS",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/JCYS.png",
+      "name": "JCYS,"
+    },
+    {
       "epgid": "JETVARIETY",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/JETVARIETY.png",
       "name": "JETVARIETY,"
@@ -2936,9 +2941,19 @@
       "name": "JISUQICHE,"
     },
     {
+      "epgid": "JNDSTV",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/JNDSTV.png",
+      "name": "JNDSTV,"
+    },
+    {
       "epgid": "JNETV",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/JNETV.png",
       "name": "JNETV,"
+    },
+    {
+      "epgid": "JNJYTV",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/JNJYTV.png",
+      "name": "JNJYTV,"
     },
     {
       "epgid": "JNSETV",
@@ -2946,9 +2961,19 @@
       "name": "JNSETV,"
     },
     {
+      "epgid": "JNSHTV",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/JNSHTV.png",
+      "name": "JNSHTV,"
+    },
+    {
       "epgid": "JNTV",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/JNTV.png",
       "name": "JNTV,"
+    },
+    {
+      "epgid": "JNWLTY",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/JNWLTY.png",
+      "name": "JNWLTY,"
     },
     {
       "epgid": "JNYETV",
@@ -3881,6 +3906,36 @@
       "name": "QTV,"
     },
     {
+      "epgid": "QTV1",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/QTV1.png",
+      "name": "QTV1,"
+    },
+    {
+      "epgid": "QTV2",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/QTV2.png",
+      "name": "QTV2,"
+    },
+    {
+      "epgid": "QTV3",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/QTV3.png",
+      "name": "QTV3,"
+    },
+    {
+      "epgid": "QTV4",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/QTV4.png",
+      "name": "QTV4,"
+    },
+    {
+      "epgid": "QTV5",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/QTV5.png",
+      "name": "QTV5,"
+    },
+    {
+      "epgid": "QTV6",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/QTV6.png",
+      "name": "QTV6,"
+    },
+    {
       "epgid": "QUANJISHI",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/QUANJISHI.png",
       "name": "QUANJISHI,"
@@ -4119,6 +4174,11 @@
       "epgid": "SETZONGHE",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SETZONGHE.png",
       "name": "SETZONGHE,"
+    },
+    {
+      "epgid": "SGTV",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SGTV.png",
+      "name": "SGTV,"
     },
     {
       "epgid": "SHANDONG",
@@ -5209,6 +5269,11 @@
       "epgid": "ZCHANNEL",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ZCHANNEL.png",
       "name": "ZCHANNEL,"
+    },
+    {
+      "epgid": "ZCTV",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ZCTV.png",
+      "name": "ZCTV,"
     },
     {
       "epgid": "ZGJT",
