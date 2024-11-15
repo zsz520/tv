@@ -463,12 +463,12 @@
     {
       "epgid": "CCTV16",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png",
-      "name": "CCTV16,35.CCTV-16奥林匹克-1080P,CCTV-16,CCTV164K,CCTV-16 4K,CCTV16-4K,CCTV164K（SDR）,CCTV16.CN,CCTV16H,CCTV16HD,CCTV-16奥林匹克,CCTV_16奥林匹克,CCTV16奥林匹克,CCTV16-奥林匹克,CCTV-16奥林匹克4K,CCTV16-奥林匹克4K,CCTV-16奥运4K,CCTV16超高清,CCTV-16高清,CCTV-16 高清,CCTVOHD,CCTV奥林匹克4K,中央16台,中央奥运,中央奥运4K,中央电视台16,中央音乐,央视-16,奥林匹克16台,奥林匹克4K,奥运频道UHD"
+      "name": "CCTV16,35.CCTV-16奥林匹克-1080P,CCTV-16,CCTV164K,CCTV-16 4K,CCTV16-4K,CCTV164K（SDR）,CCTV16.CN,CCTV16H,CCTV16HD,CCTV-16奥林匹克,CCTV_16奥林匹克,CCTV16奥林匹克,CCTV16-奥林匹克,CCTV-16奥林匹克4K,CCTV16-奥林匹克4K,CCTV-16奥运4K,CCTV16超高清,CCTV-16高清,CCTV-16 高清,CCTVOHD,CCTV奥林匹克4K,中央16台,中央奥运,中央奥运4K,中央电视台16,中央音乐,央视-16,奥林匹克,奥林匹克16台,奥林匹克4K,奥运频道UHD"
     },
     {
       "epgid": "CCTV17",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png",
-      "name": "CCTV17,10.CCTV-17农业农村-1080P,CCTV17H,CCTV17HD,CCTV-17农业,CCTV17农业,CCTV-17农业农村,CCTV_17农业农村,CCTV17农业农村,CCTV17-农业农村,CCTV-17高清,中央17台,中央农业,中央十七套,农业农村17台,央视-17"
+      "name": "CCTV17,10.CCTV-17农业农村-1080P,CCTV17H,CCTV17HD,CCTV-17农业,CCTV17农业,CCTV-17农业农村,CCTV_17农业农村,CCTV17农业农村,CCTV17-农业农村,CCTV-17高清,中央17台,中央农业,中央十七套,农业农村,农业农村17台,央视-17"
     },
     {
       "epgid": "CCTV2",
@@ -2328,7 +2328,7 @@
     {
       "epgid": "HKS",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HKS.png",
-      "name": "HKS,87.HKS香港卫视-720P,香港卫视"
+      "name": "HKS,87.HKS香港卫视-720P"
     },
     {
       "epgid": "HLN",
@@ -4028,7 +4028,7 @@
     {
       "epgid": "RTHK33",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK33.png",
-      "name": "RTHK33,"
+      "name": "RTHK33,CCTV-1综合港澳版,CCTV-1综合香港版"
     },
     {
       "epgid": "RTHK34",
@@ -5798,7 +5798,7 @@
     {
       "epgid": "中视",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中视.png",
-      "name": "中视,010中視,JW,[TW]中视,[TW]中视LINE1,中視"
+      "name": "中视,010中視,JW,[TW]中视,[TW]中视LINE1,中視,台湾中视"
     },
     {
       "epgid": "中视新闻",
@@ -6908,7 +6908,7 @@
     {
       "epgid": "华视",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华视.png",
-      "name": "华视,012華視"
+      "name": "华视,012華視,台湾华视"
     },
     {
       "epgid": "华视教育",
@@ -10188,7 +10188,7 @@
     {
       "epgid": "民视",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/民视.png",
-      "name": "民视,006民視,006民视,66666,ABC,LL,民視,民视HDLINE1"
+      "name": "民视,006民視,006民视,66666,ABC,LL,台湾民视,民視,民视HDLINE1"
     },
     {
       "epgid": "民视台湾",
